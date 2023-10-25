@@ -1,0 +1,58 @@
+/* styles.css */
+body, p, h1, h3, a, label, select, textarea {
+    font-family: 'Courier New', monospace;
+}
+
+.navbar {
+    background-color: #fff;
+}
+
+.navbar-brand img {
+    max-width: 60px;
+    height: auto;
+}
+
+.navbar-toggler-icon {
+    background-color: #000;
+}
+
+.navbar-nav .nav-item {
+    padding: 0 1rem;
+}
+
+.navbar-nav .nav-link {
+    font-weight: bold;
+}
+
+.container-fluid {
+    background-color: #fff;
+}
+
+.image-hero img {
+    width: 100%;
+    height: auto;
+}
+
+.btn {
+    border: none;
+    padding: 10px 20px;
+    border-radius: 0;
+}
+
+.btn-primary {
+    background-color: #050038;
+    color: #fff;
+}
+
+.text-dark {
+    text-decoration: underline;
+}
+
+.text-white {
+    color: #fff;
+}
+
+.list-unstyled li a {
+    color: #fff;
+    text-decoration: none;
+}
